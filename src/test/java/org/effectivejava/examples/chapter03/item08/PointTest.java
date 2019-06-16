@@ -1,5 +1,6 @@
-package org.effectivejava.examples.chapter03;
+package org.effectivejava.examples.chapter03.item08;
 
+import org.effectivejava.examples.chapter03.item08.Point;
 import org.junit.Before;
 import org.junit.Test;
 

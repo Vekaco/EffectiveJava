@@ -1,4 +1,4 @@
-package org.effectivejava.examples.chapter03;
+package org.effectivejava.examples.chapter03.item08;
 
 public class Point {
     private final int x;

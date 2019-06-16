@@ -1,4 +1,4 @@
-package org.effectivejava.examples.chapter03;
+package org.effectivejava.examples.chapter03.item08;
 
 //违反对称性
 public class CaseInsensitiveString {

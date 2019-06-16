@@ -1,5 +1,7 @@
-package org.effectivejava.examples.chapter03;
+package org.effectivejava.examples.chapter03.item08;
 
+import org.effectivejava.examples.chapter03.item08.ColorPoint;
+import org.effectivejava.examples.chapter03.item08.Point;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -9,7 +11,7 @@ import static org.junit.Assert.assertEquals;
 
 public class ColorPointTest {
 
-    private Point p1;
+    private org.effectivejava.examples.chapter03.item08.Point p1;
     private ColorPoint p2;
     private ColorPoint p3;
 
