@@ -13,3 +13,8 @@ Chapter03:
 	item10:始终覆盖toString
 	item11:谨慎覆盖clone;object.clone()是一个浅拷贝
 	item12:考虑实现Comparable接口，相关Comparator
+
+Chapter04:
+	item13:使类和成员的可访问性最小化
+	item14:在公有类中使用访问方法而非公有域
+	item15:使可变性最小化-->不可变类:1.不提供任何修改对象状态的方法;2.保证该类不会被扩展(final);3.所有域都是final的;4.所有域都为私有的;5.确保对于任何可变组件的互斥访问，并且不可变对象本质上是线程安全的，不要求同步;
